@@ -5,4 +5,4 @@ try:
 except socket.error as error:
     print(error)
 
-#random commet
+#random comment (spelt right)
